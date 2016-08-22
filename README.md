@@ -1,20 +1,18 @@
-Simple Chat
-===========
+# Product Name
+> The best room chat system for Android. Real-time, IRC Style using firebase as database
 
-### The best room chat system for Android. Real-time, IRC Style using firebase as database
+We bring you a super simple room style chat that you can use in your apps and let the users communicate between themselves and/or with you.
 
 ![alt text](https://github.com/AndreiD/SimpleChat/blob/master/app/simple_chat_gif.gif "How the app looks 1")
 
 
-### Installation Guide:
+## Installation Guide:
 
-#### Step 1
-
+### Step 1
 You should get familiar with Firebase (at least a little) before.
 https://firebase.google.com/docs/android/setup
 
-#### Step 2
-
+### Step 2
 Because you'll want to modify this to something custom (colors, logic, your auth system etc) there's no point in making a gradle library for this. 
 
 Create a new firebase project https://firebase.google.com/console/ and keep your google-service.json file somewhere safe.
@@ -23,18 +21,22 @@ Create a new firebase project https://firebase.google.com/console/ and keep your
 Clone, fork or download a zip and check the files. 
 There's no magic inside and I've tried to keep everything as simple as possible.
 
-#### Step 3 (Optional)
-
+### Step 3 (Optional)
 You might want to implement your auth system, using firebase or your own.
 
-#### Step 4 
-
+### Step 4 
 ???
 
-#### Step 5
-
+### Step 5
 Profit
 
+## Release History
+
+* 0.0.1
+    * HELLO WORLD!
+
+## TODO List
+Waiting for your suggestions/bug reports
 
 ### License 
 
