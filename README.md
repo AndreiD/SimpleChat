@@ -10,6 +10,7 @@ We bring you a super simple room style chat that you can use in your apps and le
 * Realtime!
 * Very easy to integrate in your project
 * Anonymous users or with their own username
+* Anti-flood protection
 * Profanity filter
 * Change nickname notifications
 * Helper methods for customizations 
