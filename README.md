@@ -6,15 +6,20 @@ Simple Chat
 ![alt text](https://github.com/AndreiD/SimpleChat/blob/master/app/simple_chat_gif.gif "How the app looks 1")
 
 
-### How to use it:
+### Installation Guide:
 
 #### Step 1
 
 You should get familiar with Firebase (at least a little) before.
+https://firebase.google.com/docs/android/setup
 
 #### Step 2
 
-Create a new firebase project and keep your google-service.json file somewhere safe.
+Because you'll want to modify this to something custom (colors, logic, your auth system etc) there's no point in making a gradle library for this. 
+
+Create a new firebase project https://firebase.google.com/console/ and keep your google-service.json file somewhere safe.
+
+
 Clone, fork or download a zip, check the files. It's just a big main file with everything inside :), an adaptor, and few utilities.
 
 
