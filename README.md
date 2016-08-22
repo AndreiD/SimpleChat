@@ -1,4 +1,4 @@
-# Simple Chat
+# Simple Chat :fire:
 > The best room chat system for Android. Real-time, IRC Style using firebase as database
 
 We bring you a super simple room style chat that you can use in your apps and let the users communicate between themselves and/or with you.
