@@ -5,17 +5,17 @@ We bring you a super simple room style chat that you can use in your apps and le
 
 ![alt text](https://github.com/AndreiD/SimpleChat/blob/master/simple_chat_gif.gif "How the app looks 1")
 
-## Features:
+## :heart: Features:
 
-* :heart: REALTIME! 
-* :star: Very easy to integrate in your project 
-* :speech_balloon: Anonymous users or with their own username 
-* :imp: Anti-flood protection 
-* :cop: Profanity filter 
-* :alien: Change nickname notifications 
-* :+1: Helper methods for customizations  
+* REALTIME! 
+* Very easy to integrate in your project 
+* Anonymous users or with their own username 
+* Anti-flood protection 
+* Profanity filter 
+* Change nickname notifications 
+* Helper methods for customizations  
 
-## Installation Guide:
+## :star: Installation Guide:
 
 ### Step 1
 You should get familiar with Firebase (at least a little) before.
@@ -29,9 +29,10 @@ Create a new firebase project https://firebase.google.com/console/ and keep your
 
 Clone, fork or download a zip and check the files. 
 There's no magic inside and I've tried to keep everything as simple as possible.
+Star this repository :)
 
-### Step 3 (Optional)
-You might want to implement your auth system, using firebase or your own.
+### Step 3 (Optional) 
+:cop: You might want to implement your auth system, using firebase or your own.
 
 ### Step 4 
 ???
@@ -39,15 +40,15 @@ You might want to implement your auth system, using firebase or your own.
 ### Step 5
 Profit
 
-## Release History
+## :speech_balloon: Release History
 
 * 0.0.1
     * HELLO WORLD! :fire:
 
-## TODO List
+## :alien: TODO List
 Waiting for your suggestions/bug reports
 
-### License 
+### :+1: License 
 
 Copyright 2016 - present AndroidAdvance.com
 
