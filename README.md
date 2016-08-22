@@ -3,7 +3,7 @@
 
 We bring you a super simple room style chat that you can use in your apps and let the users communicate between themselves and/or with you.
 
-![alt text](https://github.com/AndreiD/SimpleChat/blob/master/app/simple_chat_gif.gif "How the app looks 1")
+![alt text](https://github.com/AndreiD/SimpleChat/blob/master/simple_chat_gif.gif "How the app looks 1")
 
 
 ## Installation Guide:
