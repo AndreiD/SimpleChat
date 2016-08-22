@@ -20,7 +20,20 @@ Because you'll want to modify this to something custom (colors, logic, your auth
 Create a new firebase project https://firebase.google.com/console/ and keep your google-service.json file somewhere safe.
 
 
-Clone, fork or download a zip, check the files. It's just a big main file with everything inside :), an adaptor, and few utilities.
+Clone, fork or download a zip and check the files. 
+There's no magic inside and I've tried to keep everything as simple as possible.
+
+#### Step 3 (Optional)
+
+You might want to implement your auth system, using firebase or your own.
+
+#### Step 4 
+
+???
+
+#### Step 5
+
+Profit
 
 
 ### License 
