@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#403835</color>
+    <color name="colorPrimary">#8A7A6B</color>
+    <color name="colorAccent">#403835</color>
+    <color name="windowBackground">#F7F3EE</color>
+    <color name="colorControlNormal">#A79D93</color>
+    <color name="colorControlActivated">#8A7A6B</color>
+    <color name="navbar_color">@color/colorPrimaryDark</color>
+
+    <color name="blue_light">#33B5E5</color>
+    <color name="purple_light">#aa66cc</color>
+    <color name="green_light">#99CC00</color>
+    <color name="orange_light">#FFBB33</color>
+    <color name="red_light">#FF4444</color>
+
+    <color name="material_pink">#e91e63</color>
+    <color name="material_purple">#673ab7</color>
+    <color name="material_blue">#5677fc</color>
+    <color name="material_red">#ff4444</color>
+    <color name="material_green">#669900</color>
+    <color name="material_yellow">#ff8800</color>
+</resources>
