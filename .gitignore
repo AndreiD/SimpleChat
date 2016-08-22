@@ -7,3 +7,7 @@
 /build
 /captures
 .externalNativeBuild
+libs/
+src/main/res/drawable/
+src/main/res/values-v21/
+src/main/res/values-w820dp/
