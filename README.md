@@ -5,6 +5,14 @@ We bring you a super simple room style chat that you can use in your apps and le
 
 ![alt text](https://github.com/AndreiD/SimpleChat/blob/master/simple_chat_gif.gif "How the app looks 1")
 
+## Features:
+
+* Realtime!
+* Very easy to integrate in your project
+* Anonymous users or with their own username
+* Profanity filter
+* Change nickname notifications
+* Helper methods for customizations 
 
 ## Installation Guide:
 
