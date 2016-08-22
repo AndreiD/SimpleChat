@@ -1,9 +1,10 @@
 Simple Chat
 ===========
 
-### This is a simple, realtime, copy-paste, chat system for Android:
+### The best room chat system for Android. Real-time, IRC Style using firebase as database
 
-Using firebase!
+![alt text](https://github.com/AndreiD/SimpleChat/blob/master/app/simple_chat_gif.gif "How the app looks 1")
+
 
 ### How to use it:
 
