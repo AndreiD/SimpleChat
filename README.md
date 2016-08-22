@@ -7,13 +7,13 @@ We bring you a super simple room style chat that you can use in your apps and le
 
 ## Features:
 
-* Realtime!
-* Very easy to integrate in your project
-* Anonymous users or with their own username
-* Anti-flood protection
-* Profanity filter
-* Change nickname notifications
-* Helper methods for customizations 
+* :heart: REALTIME! 
+* :star: Very easy to integrate in your project 
+* :speech_balloon: Anonymous users or with their own username 
+* :imp: Anti-flood protection 
+* :cop: Profanity filter 
+* :alien: Change nickname notifications 
+* :+1: Helper methods for customizations  
 
 ## Installation Guide:
 
@@ -42,7 +42,7 @@ Profit
 ## Release History
 
 * 0.0.1
-    * HELLO WORLD!
+    * HELLO WORLD! :fire:
 
 ## TODO List
 Waiting for your suggestions/bug reports
