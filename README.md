@@ -1,6 +1,8 @@
 #  :fire: Simple Chat
 > The best room chat system for Android. Real-time, IRC Style using firebase as database
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SimpleChat-green.svg?style=true)](https://android-arsenal.com/details/3/4206)
+
 We bring you a super simple room style chat that you can use in your apps and let the users communicate between themselves and/or with you.
 
 ![alt text](https://github.com/AndreiD/SimpleChat/blob/master/simple_chat_gif.gif "How the app looks 1")
